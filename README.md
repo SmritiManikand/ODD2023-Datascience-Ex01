@@ -21,7 +21,7 @@ Save the Clean data to the file
 # CODE 
 ```
 import pandas as pd
-df=pd.read_csv("/content/SAMPLEDS - Sheet1.csv")
+df=pd.read_csv("SAMPLEDS.csv")
 
 df
 
