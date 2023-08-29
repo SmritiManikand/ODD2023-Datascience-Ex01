@@ -159,3 +159,6 @@ df
 ![s33](https://github.com/SmritiManikand/ODD2023-Datascience-Ex01/assets/113674204/09a50b4a-6fa1-47dd-8678-7bf119bd59db)
 ![s34](https://github.com/SmritiManikand/ODD2023-Datascience-Ex01/assets/113674204/830ff8dc-f784-4912-83a3-8b7baea29fad)
 ![s35](https://github.com/SmritiManikand/ODD2023-Datascience-Ex01/assets/113674204/beaacd3c-4bc2-4fe9-add5-d5961a11ca91)
+
+# RESULT
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
